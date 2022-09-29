@@ -25,10 +25,12 @@ struct paket
 struct paket kirim[MAX];
 
 /*******************************************/
+/*
     void init()
     {
         Tumpukan.top = -1;
     }
+*/
 
     bool isEmpty()
     {
